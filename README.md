@@ -78,7 +78,7 @@
 	  </p>
 	  <input type ="submit" value ="Gönder"/>
    </fieldset>
-  </td>
+  
  
 <td width="2">
 </td>
@@ -122,6 +122,4 @@ Bu Sayfa 2017 |  Sitenin Tüm Hakları Saklıdır.
  
 </tr>
 </table>
- 
-</body>
-</html>
+
