@@ -117,7 +117,7 @@
 <tr>
  
 <td align="center">
-Bu Sayfa 2017 |  Sitenin Tüm Hakları Saklıdır.
+Bu Sayfa 2017 |  Sitenin Tüm Hakları Saklıdır. 
 </td>
  
 </tr>
